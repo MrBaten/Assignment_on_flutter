@@ -11,5 +11,4 @@ Some of my software and hardware issues that can arise in front of me that I wil
 "Hi there. I am facing some problems in completing the task you provided. I was using Windows OS last time I worked with Flutter. Then I started using a Macbook as my personal computer. Then there was no need to design a user interface anymore so I didn't have Adobe XD on my computer. So now when I go to install Adobe XD I see a maintenance break on the download side. As a result, I still couldn't work with the xd file I was given for the user interface. Now what can I do?
 "
 
-
-
+thank you so much 
